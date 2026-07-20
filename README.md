@@ -39,6 +39,7 @@ python inventory.py
 - The first run creates the database and default admin user.
 - Use the menu to manage products and sales.
 images(flow of working project, ongoing with every feature)
+
 1.ADD Product
 <img width="955" height="591" alt="Screenshot 2026-07-20 102847" src="https://github.com/user-attachments/assets/cac2ab68-d691-464f-ad0b-555d53155007" />
 2.Sell Product
