@@ -4,7 +4,7 @@ A simple Python and SQLite inventory management CLI application for tracking pro
 
 ## Features
 
-- Admin login with default credentials: `admin` / `admin`
+- Admin login with default credentials:siddiq/""
 - Add new products with category, price, quantity, and supplier
 - Sell products with stock validation and automatic quantity updates
 - Purchase stock to increase inventory
