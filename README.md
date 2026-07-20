@@ -53,6 +53,7 @@ images(flow of working project, ongoing with every feature)
 <img width="828" height="621" alt="Screenshot 2026-07-20 103157" src="https://github.com/user-attachments/assets/9a42dc69-e08a-4a63-a171-20e6f069edee" />
 
 5.)Today's Sales
+
 <img width="647" height="282" alt="Screenshot 2026-07-20 103221" src="https://github.com/user-attachments/assets/8698ee1c-1294-4fa7-9258-c3487a7009fb" />
 
 6.)Top Selling Products
