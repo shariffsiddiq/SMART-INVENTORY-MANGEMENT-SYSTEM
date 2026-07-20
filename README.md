@@ -31,7 +31,7 @@ python inventory.py
 4. Login using:
 
 - Username: `siddiq`
-- Password: `siddiq`
+- Password: ``
 
 ## Notes
 
