@@ -38,6 +38,7 @@ python inventory.py
 - The application uses `inventory.db` in the same folder.
 - The first run creates the database and default admin user.
 - Use the menu to manage products and sales.
+<img width="712" height="490" alt="Screenshot 2026-07-20 103323" src="https://github.com/user-attachments/assets/dc1e6a78-259d-4677-9328-9ab6635b3093" />
 
 
 ## Extending the Project
