@@ -39,6 +39,7 @@ python inventory.py
 - The first run creates the database and default admin user.
 - Use the menu to manage products and sales.
 
+
 ## Extending the Project
 
 Possible additions for a portfolio-ready version:
