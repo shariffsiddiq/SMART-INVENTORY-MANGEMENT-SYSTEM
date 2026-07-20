@@ -30,8 +30,8 @@ python inventory.py
 
 4. Login using:
 
-- Username: `admin`
-- Password: `admin`
+- Username: ``
+- Password: ``
 
 ## Notes
 
